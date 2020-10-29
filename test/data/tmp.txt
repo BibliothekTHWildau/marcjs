@@ -1,7 +1,0 @@
-00711nam  2200217   4500
-001   1234
-245    $a My life : $b long story short
-
-00711nam  2200217   4500
-001   9876
-245    $a My life : $b long story short
